@@ -1,3 +1,3 @@
-#Laravel Site Builder
+# Laravel Site Builder
 
-##Super simple website builder
+## Super simple website builder
